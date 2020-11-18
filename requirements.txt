@@ -80,7 +80,7 @@ nb-black==1.0.6
 nbconvert==5.6.0
 nbformat==4.4.0
 nltk==3.4.4
-notebook==6.0.0
+notebook==6.1.5
 numpy==1.17.0
 packaging==19.1
 pandas==0.25.0
