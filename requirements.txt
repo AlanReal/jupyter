@@ -106,7 +106,7 @@ py4j==0.10.4
 pyct==0.4.6
 Pygments==2.4.2
 pypandoc==1.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyparsing==2.4.2
 pyrsistent==0.15.4
 pyspark==2.1.2
